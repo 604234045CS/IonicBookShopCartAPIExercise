@@ -1,0 +1,28 @@
+{
+  "name": "bookshopapi",
+  "version": "1.0.0",
+  "description": "ComSci BookShop API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kesinee-bo/IonicBookShopAPI"
+  },
+  "author": "Kesinee Boonchuay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kesinee-bo/IonicBookShopAPI/issues"
+  },
+  "homepage": "https://github.com/kesinee-bo/IonicBookShopAPI#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "firebase": "^5.8.1",
+    "firebase-admin": "^6.5.1",
+    "jsonwebtoken": "^8.4.0"
+  }
+}
